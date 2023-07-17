@@ -6,4 +6,4 @@ ModelB.zip: Model b shown in Figure 1(b).
 
 For more details, please see our paper Deep attention models with dimension-reduction and
 gate mechanisms for solving practical time-dependent
-vehicle routing problems which has been accepted at Transportation Research Part E. If this code is useful for your work, please cite our paper
+vehicle routing problems which has been accepted at Transportation Research Part E. If this code is useful for your work, please cite our paper.
